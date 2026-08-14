@@ -1,5 +1,5 @@
 {
-  "version": "2.0.0",
-  "url": "https://raw.githubusercontent.com/ravinduHV/esp32-s3-firmware-ota-update-test/main/firmware/firmware_v2.0.0.bin",
-  "sha256": "7F6636AF31DD0F5D8190DD8541D06CB7DEAB8291794BD966570693F3696247B7"
+  "version": "2.0.1",
+  "url": "https://raw.githubusercontent.com/ravinduHV/esp32-s3-firmware-ota-update-test/main/firmware/firmware_v2.0.1.bin",
+  "sha256": "2c331549410d06cdd3c30d8a42522f1830c0a94a479c76c2509d0ef2908a783c"
 }
